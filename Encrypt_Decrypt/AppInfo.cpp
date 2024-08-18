@@ -306,12 +306,12 @@ int main() {
 		
         switch (choice) {
             case 1:
-            	cout << "\nInstruction: Make sure the file is in assign2_163850 folder\n" << endl;
+            	cout << "\nInstruction: Make sure the file is in Encrypt_Decrypt folder\n" << endl;
                 inforXApp.encrypt();
                 break;
 
             case 2:
-            	cout << "\nInstruction: Make sure the file is in assign2_163850 folder\n" << endl;
+            	cout << "\nInstruction: Make sure the file is in Encrypt_Decrypt folder\n" << endl;
                 inforXApp.decrypt();
                 break;
 
