@@ -21,7 +21,7 @@ Check out a C++ application for encrypting and decrypting text for CPT113 Assign
    - Launch Dev-C++ on your computer.
 
 3. **Open the project:**
-   - Go to File > Open Project/File
+   - Go to File > Open Project/File.
    - Navigate to the CPT113_Assignment_2 folder you downloaded.
    - Select `AppInfo.cpp` file, and open it.
 
