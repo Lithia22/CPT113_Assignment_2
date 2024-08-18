@@ -13,7 +13,7 @@ Check out a C++ application for encrypting and decrypting text for CPT113 Assign
 1. **Download the repository:**
 
    ```bash
-   git clone https://github.com/Lithia22/MyPaddy.git
+   git clone https://github.com/Lithia22/CPT113_Assignment_2.git
 
 2. **Open Dev-C++:**
    - Launch Dev-C++ on your computer.
@@ -21,7 +21,7 @@ Check out a C++ application for encrypting and decrypting text for CPT113 Assign
 3. **Open the project:**
    - Go to File > Open Project/File...
    - Navigate to the MyPaddy folder you downloaded.
-   - Select `main.cpp` file, and open it.
+   - Select `AppInfo.cpp` file, and open it.
 
 4. **Compile the program:**
    - Go to Execute > Compile & Run or press F9.
