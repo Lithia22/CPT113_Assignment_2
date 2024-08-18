@@ -31,6 +31,7 @@ Check out a C++ application for encrypting and decrypting text for CPT113 Assign
 
 ## Video Tutorial
 
+[![Watch the video](https://img.youtube.com/vi/pOIkJ3mWitw/0.jpg)](https://youtu.be/pOIkJ3mWitw)
 
-https://github.com/user-attachments/assets/94f4f56b-ada2-44d7-b4b9-30a4c25d2b04
+Click on the image above to watch the tutorial on YouTube.
 
