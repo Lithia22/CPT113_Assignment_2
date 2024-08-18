@@ -4,6 +4,8 @@ Check out a C++ application for encrypting and decrypting text for CPT113 Assign
 - It reverses characters in words and replaces vowels with symbols.
 - This app uses Stack and Queue for these operations.
 
+<img width="465" alt="Screenshot 2024-08-19 at 3 19 57 AM" src="https://github.com/user-attachments/assets/fc070e6b-6ef7-4809-9118-206b71a268ce">
+
 ## Prerequisites
 
 - **Dev-C++ IDE:** Download and install Dev-C++ from [Dev-C++ official website](https://www.bloodshed.net/devcpp.html).
