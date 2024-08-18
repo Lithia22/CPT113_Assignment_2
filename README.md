@@ -26,3 +26,9 @@ Check out a C++ application for encrypting and decrypting text for CPT113 Assign
 4. **Compile the program:**
    - Go to Execute > Compile & Run or press F9.
    - Dev-C++ will compile the code and run the application.
+
+## Video Tutorial
+
+
+https://github.com/user-attachments/assets/94f4f56b-ada2-44d7-b4b9-30a4c25d2b04
+
